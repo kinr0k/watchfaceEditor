@@ -61,7 +61,7 @@ wfe.init = function() {
             location.search = '';
         });
     }
-    window.vergelite = () => app.change_device('vergelite', wfe);
+
     // Functions
     function addScript(url) {
         let e = document.createElement("script");
