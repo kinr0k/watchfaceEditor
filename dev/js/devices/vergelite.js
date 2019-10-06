@@ -199,8 +199,8 @@ let device = {
         watchface_block: {
             left: 69,
             top: 157,
-            height: 752 - 157,
-            width: 591 - 69,
+            height: 767 - 157,
+            width: 540 - 69,
             image: 'vergelite.png'
         }
     },
