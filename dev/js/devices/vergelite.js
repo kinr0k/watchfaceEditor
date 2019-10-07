@@ -197,10 +197,10 @@ let device = {
     tabs: ['editor-tab', 'jsonEditor-tab', 'resources-tab'],
     images: {
         watchface_block: {
-            left: 69,
-            top: 157,
-            height: 752 - 157,
-            width: 591 - 69,
+            left: 145,
+            top: 39,
+            height: 752 - 39,
+            width: 591 - 145,
             image: 'vergelite.png'
         }
     },
