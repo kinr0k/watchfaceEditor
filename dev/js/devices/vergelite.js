@@ -205,6 +205,6 @@ let device = {
         }
     },
     data: wf_data,
-    default_coords: JSON.parse('{"bg":{"Image":{"ImageIndex":303,"X":0,"Y":0}},"time":{"Hours":{"Ones":{"ImageIndex":255,"ImagesCount":10,"X":186,"Y":194},"Tens":{"ImageIndex":255,"ImagesCount":10,"X":148,"Y":194}},"Minutes":{"Ones":{"ImageIndex":255,"ImagesCount":10,"X":275,"Y":194},"Tens":{"ImageIndex":255,"ImagesCount":10,"X":238,"Y":194}}},"date":false,"battery":false,"status":false,"activity":false,"weather":false,"stepsprogress":false,"analog":false}')
+    default_coords: JSON.parse('{"bg":{"Image":{"ImageIndex":303,"X":0,"Y":0}},"time":{"Hours":{"Ones":{"ImageIndex":255,"ImagesCount":10,"X":145,"Y":140},"Tens":{"ImageIndex":255,"ImagesCount":10,"X":105,"Y":140}},"Minutes":{"Ones":{"ImageIndex":255,"ImagesCount":10,"X":232,"Y":140},"Tens":{"ImageIndex":255,"ImagesCount":10,"X":194,"Y":140}}},"date":false,"battery":false,"status":false,"activity":false,"weather":false,"stepsprogress":false,"analog":false}')
 };
 export default device;
