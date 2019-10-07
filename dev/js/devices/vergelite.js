@@ -197,14 +197,14 @@ let device = {
     tabs: ['editor-tab', 'jsonEditor-tab', 'resources-tab'],
     images: {
         watchface_block: {
-            left: 49,
-            top: 147,
-            height: 767 - 147,
-            width: 540 - 49,
+            left: 69,
+            top: 157,
+            height: 752 - 157,
+            width: 591 - 69,
             image: 'vergelite.png'
         }
     },
     data: wf_data,
-    default_coords: JSON.parse('{"bg":{"Image":{"ImageIndex":302,"X":0,"Y":0}},"time":{"Hours":{"Ones":{"ImageIndex":255,"ImagesCount":10,"X":186,"Y":194},"Tens":{"ImageIndex":255,"ImagesCount":10,"X":148,"Y":194}},"Minutes":{"Ones":{"ImageIndex":255,"ImagesCount":10,"X":275,"Y":194},"Tens":{"ImageIndex":255,"ImagesCount":10,"X":238,"Y":194}}},"date":false,"battery":false,"status":false,"activity":false,"weather":false,"stepsprogress":false,"analog":false}')
+    default_coords: JSON.parse('{"bg":{"Image":{"ImageIndex":303,"X":0,"Y":0}},"time":{"Hours":{"Ones":{"ImageIndex":255,"ImagesCount":10,"X":186,"Y":194},"Tens":{"ImageIndex":255,"ImagesCount":10,"X":148,"Y":194}},"Minutes":{"Ones":{"ImageIndex":255,"ImagesCount":10,"X":275,"Y":194},"Tens":{"ImageIndex":255,"ImagesCount":10,"X":238,"Y":194}}},"date":false,"battery":false,"status":false,"activity":false,"weather":false,"stepsprogress":false,"analog":false}')
 };
 export default device;
